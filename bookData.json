@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "bookname": "Web Engineering",
+        "author": "Cox",
+        "publisher": "San Francisco Publishers"
+    },
+    {
+        "id": "3",
+        "bookname": "Software Engineering",
+        "author": "Greer",
+        "publisher": "London Publications",
+        "isbn": null
+    },
+    {
+        "id": "4",
+        "bookname": "Computer Networks",
+        "author": "Wagner",
+        "publisher": "San Francisco Publishers",
+        "isbn": null
+    },
+    {
+        "id": "5",
+        "bookname": "Digital Signal Processing",
+        "author": "Ednalan",
+        "publisher": "Olongapo",
+        "isbn": null
+    },
+    {
+        "id": "6",
+        "bookname": "Artificial Intelligence",
+        "author": "Ednalan",
+        "publisher": "Olongapo",
+        "isbn": null
+    },
+    {
+        "id": "7",
+        "bookname": "Computer Graphics",
+        "author": "Donald Hearn",
+        "publisher": "Princeton"
+    }
+]
